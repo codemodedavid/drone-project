@@ -1,0 +1,27 @@
+# === STM32CubeIDE build output ===
+/Debug/
+/Release/
+/build/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# === IDE-specific ===
+*.launch
+*.settings/
+.project
+.cproject
+
+# === Backup / temp files ===
+*.bak
+*.swp
+*~
+*.tmp
+
+# === CubeMX-generated files you typically DON’T modify ===
+Middlewares/
+Utilities/
+
