@@ -17,6 +17,7 @@
   */
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
+#include <pid_control.h>
 #include "main.h"
 
 /* Private includes ----------------------------------------------------------*/
@@ -29,7 +30,6 @@
 #include "callbacks.h"
 #include "time_utils.h"
 #include "math_utils.h"
-#include "pid_control.h"
 #include "comm_utils.h"
 /* USER CODE END Includes */
 
