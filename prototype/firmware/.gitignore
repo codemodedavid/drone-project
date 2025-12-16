@@ -1,5 +1,5 @@
 # === STM32CubeIDE build output ===
-/Debug/
+/flight_controller_mcu/Debug/
 /Release/
 /build/
 *.o
@@ -14,6 +14,7 @@
 *.settings/
 .project
 .cproject
+.metadata
 
 # === Backup / temp files ===
 *.bak
