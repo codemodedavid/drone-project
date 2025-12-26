@@ -9802,8 +9802,8 @@
 		(uuid c9810ee0-9ac1-4e8f-b020-b7f65d4e47da)
 	)
 	(rectangle
-		(start 37.465 39.37)
-		(end 59.055 59.055)
+		(start 37.465 40.64)
+		(end 59.055 60.325)
 		(stroke
 			(width 0)
 			(type default)
@@ -10516,7 +10516,7 @@
 		(uuid "506a9daa-6cc5-45b6-b567-27cf56e4af4f")
 	)
 	(junction
-		(at 52.07 44.45)
+		(at 52.07 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "556d4025-ce2f-4745-9fd7-9743391e6486")
@@ -10732,7 +10732,7 @@
 		(uuid "9db3ea32-8ac3-49bf-8c89-a5602d638721")
 	)
 	(junction
-		(at 41.91 54.61)
+		(at 41.91 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9fdf420e-c5a5-4866-b808-f837ef84e52d")
@@ -11357,7 +11357,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 44.45) (xy 52.07 44.45)
+			(xy 41.91 45.72) (xy 52.07 45.72)
 		)
 		(stroke
 			(width 0)
@@ -11477,7 +11477,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 38.1) (xy 63.5 44.45)
+			(xy 63.5 38.1) (xy 63.5 45.72)
 		)
 		(stroke
 			(width 0)
@@ -11617,7 +11617,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 52.07) (xy 52.07 54.61)
+			(xy 52.07 53.34) (xy 52.07 55.88)
 		)
 		(stroke
 			(width 0)
@@ -11847,7 +11847,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 54.61) (xy 52.07 54.61)
+			(xy 41.91 55.88) (xy 52.07 55.88)
 		)
 		(stroke
 			(width 0)
@@ -12397,7 +12397,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 44.45) (xy 52.07 46.99)
+			(xy 52.07 45.72) (xy 52.07 48.26)
 		)
 		(stroke
 			(width 0)
@@ -13267,7 +13267,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 41.91) (xy 52.07 44.45)
+			(xy 52.07 43.18) (xy 52.07 45.72)
 		)
 		(stroke
 			(width 0)
@@ -14707,7 +14707,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 44.45) (xy 63.5 44.45)
+			(xy 52.07 45.72) (xy 63.5 45.72)
 		)
 		(stroke
 			(width 0)
@@ -14877,7 +14877,7 @@
 	)
 	(global_label "NRST"
 		(shape input)
-		(at 52.07 41.91 180)
+		(at 52.07 43.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14887,7 +14887,7 @@
 		)
 		(uuid "0814c5bb-5a48-4389-9e5a-a732f354f564")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.3072 41.91 0)
+			(at 44.3072 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16130,7 +16130,7 @@
 				)
 			)
 		)
-		(property "Footprint" "drone1:RESC2012X55N"
+		(property "Footprint" "Resistors1:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
 			(at 457.2 57.15 0)
 			(effects
 				(font
@@ -16967,7 +16967,7 @@
 				)
 			)
 		)
-		(property "Footprint" "drone1:RESC2012X55N"
+		(property "Footprint" "Resistors1:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
 			(at 457.2 72.39 0)
 			(effects
 				(font
@@ -17605,7 +17605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistors1:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
 			(at 471.17 121.92 0)
 			(effects
 				(font
@@ -18858,7 +18858,7 @@
 				)
 			)
 		)
-		(property "Footprint" "drone1:RESC2012X55N"
+		(property "Footprint" "Resistors1:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
 			(at 457.2 64.77 0)
 			(effects
 				(font
@@ -19296,7 +19296,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistors1:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
 			(at 481.33 121.92 0)
 			(effects
 				(font
@@ -19916,7 +19916,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 41.91 54.61 0)
+		(at 41.91 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19924,7 +19924,7 @@
 		(dnp no)
 		(uuid "49b66e7e-67a1-499b-9bc8-1f61620d1f17")
 		(property "Reference" "#PWR09"
-			(at 41.91 60.96 0)
+			(at 41.91 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19933,7 +19933,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 45.466 57.658 0)
+			(at 45.466 58.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19941,7 +19941,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 54.61 0)
+			(at 41.91 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19950,7 +19950,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 54.61 0)
+			(at 41.91 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19959,7 +19959,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 41.91 54.61 0)
+			(at 41.91 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20651,7 +20651,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 41.91 49.53 90)
+		(at 41.91 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20660,7 +20660,7 @@
 		(fields_autoplaced yes)
 		(uuid "5a169a38-6ebd-497c-bccd-619079c9ec81")
 		(property "Reference" "SW2"
-			(at 43.18 48.2599 90)
+			(at 43.18 49.5299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20669,7 +20669,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 43.18 50.7999 90)
+			(at 43.18 52.0699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20678,7 +20678,7 @@
 			)
 		)
 		(property "Footprint" "drone1:SW_1825910-6-4"
-			(at 36.83 49.53 0)
+			(at 36.83 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20687,7 +20687,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 36.83 49.53 0)
+			(at 36.83 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20696,7 +20696,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 41.91 49.53 0)
+			(at 41.91 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21585,7 +21585,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 52.07 48.26 0)
+		(at 52.07 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21593,7 +21593,7 @@
 		(dnp no)
 		(uuid "6e6131de-841f-4516-b3b2-1eb452a35b9c")
 		(property "Reference" "C11"
-			(at 53.594 45.974 0)
+			(at 53.594 47.244 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21602,7 +21602,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 53.086 51.054 0)
+			(at 53.086 52.324 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21611,7 +21611,7 @@
 			)
 		)
 		(property "Footprint" "drone1:CAPC17595_95N_KEM-M"
-			(at 53.0352 52.07 0)
+			(at 53.0352 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21620,7 +21620,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 52.07 48.26 0)
+			(at 52.07 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21629,7 +21629,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 52.07 48.26 0)
+			(at 52.07 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27938,7 +27938,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistors1:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
 			(at 476.25 121.92 0)
 			(effects
 				(font

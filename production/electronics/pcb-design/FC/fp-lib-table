@@ -1,5 +1,5 @@
 (fp_lib_table
   (version 7)
-  (lib (name "custom1")(type "KiCad")(uri "/home/davv/Documents/kicad projects/footprintz/FOOTLIB_1.pretty")(options "")(descr ""))
-  (lib (name "drone1")(type "KiCad")(uri "/home/davv/Documents/kicad projects/zips/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "custom1")(type "KiCad")(uri "/home/davv/Documents/kicad projects/footprintz/FOOTLIB_1.pretty")(options "")(descr "")(disabled))
+  (lib (name "drone1")(type "KiCad")(uri "/home/davv/Documents/drone-project/production/electronics/components/footprints.pretty")(options "")(descr ""))
 )
